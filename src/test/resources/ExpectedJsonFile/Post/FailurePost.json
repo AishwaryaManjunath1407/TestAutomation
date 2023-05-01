@@ -1,0 +1,18 @@
+[
+  {
+    "field": "user",
+    "message": "must exist"
+  },
+  {
+    "field": "user_id",
+    "message": "is not a number"
+  },
+  {
+    "field": "title",
+    "message": "can't be blank"
+  },
+  {
+    "field": "body",
+    "message": "can't be blank"
+  }
+]
