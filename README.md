@@ -17,7 +17,9 @@ and expand the contents someplace on your system.
 In order to run Cucumber tests, the following softwares needs to be installed to your system.
 
 Intellij code editor
+
 JAVA SDK
+
 MAVEN
 
 **TestSite**
@@ -61,13 +63,15 @@ Posts:
   TC16. Success Response to delete a post based on postId
   
   
-  Note: Please provide valid User ID and Post ID in the test data while deleting a User/Post for testcase(TC8 & TC16) to successfully pass.
+  **Note:** Please provide valid User ID and Post ID in the test data while deleting a User/Post for testcase(TC8 & TC16) to successfully pass.
   
 **To Run the TestSuite**
 
 mvn clean install 
+
 mvn test
-or right-click on TestRunner class and click Run >'RunCucumberTest'
+
+OR right-click on TestRunner class and click Run >'RunCucumberTest'
 
 
 
